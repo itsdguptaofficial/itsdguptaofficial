@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Divyansh;CSE+Student+at+CodingGita;Learning+Python;Building+in+Public" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsdgupta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsdguptacg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsdguptaofficial)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyansh.gupta.cg@gmail.com)
 
 </div>
@@ -47,7 +47,7 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsdguptacg&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=itsdguptaofficial&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -56,7 +56,7 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 <div>
 
 
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=itsdguptacg&theme=midnightneon&leetcode=itsdgupta&align=center)
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=itsdguptaofficial&theme=midnightneon&leetcode=itsdgupta&align=center)
 
 <sub>Last updated: August 2026</sub>
 
