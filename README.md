@@ -39,7 +39,7 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsdgupta/)
-[![Email](https://img.shields.io/badge/Say%20Hello-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyansh.gupta.cg@gmail.com)
+[![Email](https://img.shields.io/badge/Say%20Hello-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyansh.gupta.official@outlook.com)
 
 </div>
 
